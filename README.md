@@ -104,8 +104,7 @@
 50. [计算机考研笔记](https://github.com/overnote)
 51. [前端库](https://github.com/sorrycc/awesome-f2e-libs)
 52. [前端知识点总结](https://github.com/huyaocode/webKnowledge)
-53. [2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s/HdIvS75nJ0JFStoNPIl7Iw)
-54. [架构师技术图谱](https://github.com/toutiaoio/awesome-architecture)
+53. [架构师技术图谱](https://github.com/toutiaoio/awesome-architecture)
 
 ## 联系作者
 
