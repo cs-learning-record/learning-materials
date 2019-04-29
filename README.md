@@ -26,7 +26,7 @@
 13. [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 14. [高质量的 Github Issue 博客列表](https://github.com/paddingme/github-issue-blog-list)
 15. [大史住在大前端](https://github.com/dashnowords/blogs)
-16. [yhlben 的前端日志](https://yhlben.github.io/blog/)
+16. [lmjben 的前端日志](https://lmjben.github.io/blog/)
 17. [兮诀——阿里](https://github.com/Aaaaaaaty/blog)
 18. [SHERlocked93 个人博客](https://github.com/SHERlocked93/blog)
 19. [泽鹿博客——阿里](https://github.com/panyifei/Front-end-learning)
