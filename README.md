@@ -1,10 +1,19 @@
+![image](./img/timg.jpg)
+<br>
+## 前言
+
+本人平时学习及收集内容，欢迎参入一起讨论。
+
+## 关于作者
+
+暂时欠着
 
 ### 优秀博主
 
 1. [前端小密圈](https://github.com/jawil/blog)
 1. [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
-2. [前端进阶系列](https://github.com/yygmind/blog)
-3. [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
+1. [前端进阶系列](https://github.com/yygmind/blog)
+1. [JavaScript 深入系列](https://github.com/mqyqingfeng/Blog)
 1. [前端工匠博客](https://github.com/ljianshu/Blog)
 1. [梁少峰的个人博客](https://github.com/youngwind/blog)
 1. [LGC](https://github.com/amandakelake/blog)
@@ -19,11 +28,11 @@
 1. [大史住在大前端](https://github.com/dashnowords/blogs)
 1. [前端何时是个头](https://github.com/Aaaaaaaty/blog)
 1. [SHERlocked93 个人博客](https://github.com/SHERlocked93/blog)
-1. [泽鹿博客](https://github.com/panyifei/Front-end-learning)
-1. [Aaaaaaaty博客](https://github.com/Aaaaaaaty/blog)
+1. [泽鹿博客——阿里](https://github.com/panyifei/Front-end-learning)
+1. [Aaaaaaaty 博客](https://github.com/Aaaaaaaty/blog)
 1. [MuYunyun——拼多多](https://github.com/MuYunyun/blog)
-1. [Joony的博客——吓皮](https://github.com/forthealllight/blog)
-1. [dwqs博客——吓皮](https://github.com/dwqs/blog)
+1. [Joony 的博客——吓皮](https://github.com/forthealllight/blog)
+1. [dwqs 博客——吓皮](https://github.com/dwqs/blog)
 1. [一个前端的博客——阿里](https://github.com/muwoo/blogs)
 1. [刘博文博客——360](https://github.com/berwin/Blog)
 2. [404 Not Found的知识库——马蚁金服](https://github.com/404notf0und/Always-Learning)
@@ -42,10 +51,10 @@
 
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 2. [常用书籍](https://github.com/mymmsc/books)
-3. [计算机电子书pdf整理及下载链接](https://github.com/fuhmmin/it-ebooks-cn)
+3. [计算机电子书 pdf 整理及下载链接](https://github.com/fuhmmin/it-ebooks-cn)
 4. [编程书籍的整理和收集](https://github.com/KeKe-Li/book)
 5. [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
-6. [Web前端导航](http://www.alloyteam.com/nav/)
+6. [Web 前端导航](http://www.alloyteam.com/nav/)
 7. [计算机经典书籍推荐](https://github.com/woai3c/recommended-books)
 8. [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks)
 9. [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
@@ -63,13 +72,13 @@
 21. [计算机技术类书籍 PDF](https://github.com/huihut/CS-Books)
 22. [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 23. [计算机学习资料列表](https://github.com/NGLSL/learning-material-list)
-24. [Web前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
+24. [Web 前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)
 25. [伯乐在线](https://github.com/jobbole/)
 26. [稀土](https://github.com/xitu)
 27. [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
 28. [前端开发知识结构](https://github.com/JacksonTian/fks)
 29. [各种编程学习资料](https://github.com/FangWW/Document)
-30. [个人分享--web前端学习资源分享](https://juejin.im/post/5a0c1956f265da430a501f51)
+30. [个人分享--web 前端学习资源分享](https://juejin.im/post/5a0c1956f265da430a501f51)
 31. [免费英文书籍](http://web.archive.org/web/20160428030320/https://github.com/vhf/free-programming-books)
 32. [原创和翻译](https://github.com/ikcamp)
 33. [前端技术书籍、前端热门技术、前端发展](https://github.com/zhaoqize/FE-Guide)
@@ -81,8 +90,8 @@
 39. [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 40. [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh/blob/master/README.md)
 41. [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
-42. [从程序员到CTO](https://github.com/0voice/from_coder_to_expert)
-43. [2018上半年掘金微信群日报优质文章合集：前端篇](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
+42. [从程序员到 CTO](https://github.com/0voice/from_coder_to_expert)
+43. [2018 上半年掘金微信群日报优质文章合集：前端篇](https://juejin.im/post/5b3adfe2e51d4555b17e85df)
 44. [Hello GitHub](https://github.com/521xueweihan/HelloGitHub)
 45. [GitHub 漫游指南](https://github.com/phodal/github)
 46. [定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
@@ -92,3 +101,12 @@
 50. [现代 Web 开发](https://github.com/wx-chevalier/Web-Series)
 51. [计算机考研笔记](https://github.com/overnote)
 52. [前端库](https://github.com/sorrycc/awesome-f2e-libs)
+
+## 联系作者
+
+<div align="center">
+    <p>
+        在颠覆世界的同时，也要好好关照自己。
+    </p>
+    <img src="./img/contact.png" />
+</div>
