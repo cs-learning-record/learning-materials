@@ -28,14 +28,15 @@
 1. [刘博文博客——360](https://github.com/berwin/Blog)
 2. [404 Not Found的知识库——马蚁金服](https://github.com/404notf0und/Always-Learning)
 3. [王下邀月熊——阿里](https://github.com/wx-chevalier)
-4. [前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog)
-5. [web全栈书签](https://github.com/OXOYO/F2E-Tutorial-Collect)
-6. [前端知识月刊](https://github.com/jsfront/month)
-7.  [前端技术日报](https://github.com/kujian/frontendDaily)
-8.  [D2 日报](https://daily.fairyever.com/)
-9.  [前端精读周刊](https://github.com/dt-fe/weekly)
-10. [前端博客汇总](https://github.com/foru17/front-end-collect)
-11. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
+4. [深予之博客](https://github.com/senntyou/blogs)
+5. [前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog)
+6. [web全栈书签](https://github.com/OXOYO/F2E-Tutorial-Collect)
+7. [前端知识月刊](https://github.com/jsfront/month)
+8.  [前端技术日报](https://github.com/kujian/frontendDaily)
+9.  [D2 日报](https://daily.fairyever.com/)
+10. [前端精读周刊](https://github.com/dt-fe/weekly)
+11. [前端博客汇总](https://github.com/foru17/front-end-collect)
+12. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
 
 ### 优秀学习资源
 
@@ -90,3 +91,4 @@
 49. [前端学习、开发资源、求职面试](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 50. [现代 Web 开发](https://github.com/wx-chevalier/Web-Series)
 51. [计算机考研笔记](https://github.com/overnote)
+52. [前端库](https://github.com/sorrycc/awesome-f2e-libs)
