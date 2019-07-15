@@ -93,11 +93,12 @@
 42. [GitHub 漫游指南](https://github.com/phodal/github)
 43. [定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 44. [上不了名校？可以在 GitHub 上读他们的课程](https://www.cnblogs.com/xueweihan/p/11075694.html)
-45. [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
-46. [前端学习、开发资源、求职面试](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
-47. [现代 Web 开发](https://github.com/wx-chevalier/Web-Series)
-48. [计算机考研笔记](https://github.com/overnote)
-49. [前端库](https://github.com/sorrycc/awesome-f2e-libs)
+45. [哈工大计算机课程资料](https://github.com/wxwmd/HIT-Computer-Courses)
+46. [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
+47. [前端学习、开发资源、求职面试](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+48. [现代 Web 开发](https://github.com/wx-chevalier/Web-Series)
+49. [计算机考研笔记](https://github.com/overnote)
+50. [前端库](https://github.com/sorrycc/awesome-f2e-libs)
 
 ## 联系作者
 
