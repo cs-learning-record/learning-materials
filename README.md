@@ -44,7 +44,8 @@
 26. [前端精读周刊](https://github.com/dt-fe/weekly)
 27. [D2 日报](https://daily.fairyever.com/)
 28. [前端博客汇总](https://github.com/foru17/front-end-collect)
-29. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
+29. [收集优质的中文前端博客](https://github.com/FrankFang/best-chinese-front-end-blogs)
+30. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
 
 ### 优秀学习资源
 
