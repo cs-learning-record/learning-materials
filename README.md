@@ -10,7 +10,7 @@
 
 ### 优秀博主
 
-1. [前端小密圈](https://github.com/jawil/blog)
+1. [微醺岁月——阿里](https://github.com/jawil/blog)
 1. [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
 1. [前端进阶系列](https://github.com/yygmind/blog)
 1. [JavaScript 深入系列](https://github.com/mqyqingfeng/Blog)
