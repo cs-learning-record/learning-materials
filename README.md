@@ -22,7 +22,7 @@
 9. [前端开发学习记录——腾讯](https://github.com/cody1991/learn)
 10. [言川的博客-阿里](https://github.com/lihongxun945/myblog)
 11. [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
-12. [高质量的 Github Issue 博客列表 ](https://github.com/paddingme/github-issue-blog-list)
+12. [高质量的 Github Issue 博客列表](https://github.com/paddingme/github-issue-blog-list)
 13. [大史住在大前端](https://github.com/dashnowords/blogs)
 14. [兮诀——阿里](https://github.com/Aaaaaaaty/blog)
 15. [SHERlocked93 个人博客](https://github.com/SHERlocked93/blog)
