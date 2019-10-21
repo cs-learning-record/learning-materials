@@ -107,6 +107,7 @@
 53. [前端库](https://github.com/sorrycc/awesome-f2e-libs)
 54. [前端知识点总结](https://github.com/huyaocode/webKnowledge)
 55. [2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s/HdIvS75nJ0JFStoNPIl7Iw)
+56. [架构师技术图谱](https://github.com/toutiaoio/awesome-architecture)
 
 ## 联系作者
 
