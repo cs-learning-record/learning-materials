@@ -100,13 +100,11 @@
 44. [定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 45. [上不了名校？可以在 GitHub 上读他们的课程](https://www.cnblogs.com/xueweihan/p/11075694.html)
 46. [哈工大计算机课程资料](https://github.com/wxwmd/HIT-Computer-Courses)
-47. [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
-48. [前端学习、开发资源、求职面试](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
-49. [现代 Web 开发](https://github.com/wx-chevalier/Web-Series)
-50. [计算机考研笔记](https://github.com/overnote)
-51. [前端知识点总结](https://github.com/huyaocode/webKnowledge)
-52. [架构师技术图谱](https://github.com/toutiaoio/awesome-architecture)
-53. [爬虫-博客大全](https://github.com/libin1991/libin_Blog)
+47. [现代 Web 开发](https://github.com/wx-chevalier/Web-Series)
+48. [计算机考研笔记](https://github.com/overnote)
+49. [前端知识点总结](https://github.com/huyaocode/webKnowledge)
+50. [架构师技术图谱](https://github.com/toutiaoio/awesome-architecture)
+51. [爬虫-博客大全](https://github.com/libin1991/libin_Blog)
 
 ## 联系作者
 
