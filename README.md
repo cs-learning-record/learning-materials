@@ -47,10 +47,11 @@
 34. [前端技术日报](https://github.com/kujian/frontendDaily)
 35. [前端精读周刊](https://github.com/dt-fe/weekly)
 36. [前端自习课](https://github.com/pingan8787/Leo-JavaScript)
-37. [D2 日报](https://daily.fairyever.com/)
-38. [前端博客汇总](https://github.com/foru17/front-end-collect)
-39. [收集优质的中文前端博客](https://github.com/FrankFang/best-chinese-front-end-blogs)
-40. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
+37. [前端小课](https://github.com/lefex/FE)
+38. [D2 日报](https://daily.fairyever.com/)
+39. [前端博客汇总](https://github.com/foru17/front-end-collect)
+40. [收集优质的中文前端博客](https://github.com/FrankFang/best-chinese-front-end-blogs)
+41. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
 
 ### 优秀学习资源
 
