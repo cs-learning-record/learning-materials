@@ -54,6 +54,7 @@
 41. [前端博客汇总](https://github.com/foru17/front-end-collect)
 42. [收集优质的中文前端博客](https://github.com/FrankFang/best-chinese-front-end-blogs)
 43. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
+44. [fe-necessary-book](https://github.com/ddzy/fe-necessary-book)
 
 ### 优秀学习资源
 
