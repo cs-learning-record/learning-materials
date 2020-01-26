@@ -57,6 +57,7 @@
 44. [每天 30 秒，精选前端问题集](https://github.com/b3log/30-seconds-zh_CN)
 45. [fe-necessary-book](https://github.com/ddzy/fe-necessary-book)
 46. [前端技术文章](https://github.com/ChanceYu/front-end-rss)
+47. [前端体系](https://notes.itzkp.com/2.note/)
 
 ### 优秀学习资源
 
