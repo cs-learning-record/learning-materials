@@ -60,6 +60,7 @@
 47. [fe-necessary-book](https://github.com/ddzy/fe-necessary-book)
 48. [前端技术文章](https://github.com/ChanceYu/front-end-rss)
 49. [前端体系](https://notes.itzkp.com/2.note/)
+50. [霖呆呆的个人博客汇总](https://github.com/LinDaiDai/niubility-coding-js)
 
 ### 优秀学习资源
 
