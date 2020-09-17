@@ -12,7 +12,6 @@
 ### 优秀博主
 
 1. [微醺岁月——阿里](https://github.com/jawil/blog)
-2. [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
 3. [前端工匠博客](https://github.com/ljianshu/Blog)
 4. [梁少峰的个人博客](https://github.com/youngwind/blog)
 5. [LGC——Fordeal](https://github.com/amandakelake/blog)
