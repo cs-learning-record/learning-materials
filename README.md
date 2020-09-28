@@ -60,6 +60,7 @@
 47. [前端技术文章](https://github.com/ChanceYu/front-end-rss)
 48. [前端体系](https://notes.itzkp.com/2.note/)
 49. [霖呆呆的个人博客汇总](https://github.com/LinDaiDai/niubility-coding-js)
+50. [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 
 ### 优秀学习资源
 
